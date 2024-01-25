@@ -1,0 +1,17 @@
+---
+title: "Ivan Ramler"
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      url: "https://github.com/iramler"
+    - text: Email
+      url: "mailto:iramler+site@stlawu.edu"
+    - text: Resume
+      url: "resume.pdf"
+comments: false
+---
+
+
+I'm Ivan Ramler an Statistics and Data Science professor at [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"}.

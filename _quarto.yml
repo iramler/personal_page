@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - resume.pdf
+
+
+website:
+  title: "Ivan Ramler"
+  description: "Sample page"
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+format:
+  html:
+    theme: lux
